@@ -4,7 +4,7 @@ Resources:
     Type: 'AWS::EC2::Instance'
     Properties:
       KeyName: uda
-      ImageId: 'ami-002f3ac4cb4be3596'
+      ImageId: 'ami-0d5eff06f840b45e9'
   InstanceSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
